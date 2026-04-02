@@ -1,4 +1,4 @@
--# Carlos José Castro Galante 🚀
+# Carlos José Castro Galante 🚀
 
 Welcome to the official GitHub organization of **Carlos José Castro Galante** - a space focused on **software development, data science, and modern web technologies**.
 
