@@ -52,12 +52,6 @@ We are open to:
 - Remote collaborations
 - Academic and research projects
 
-## 📫 Contact
-
-- Portfolio: (add your website here)
-- LinkedIn: (add your LinkedIn)
-- Email: (add your email)
-
 ## 🔍 Keywords
 
 software developer, full stack developer, data science, machine learning, react developer, nextjs, fastapi, python developer, web development, backend developer, frontend developer, argentina developer, open source, github projects
